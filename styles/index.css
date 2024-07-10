@@ -315,7 +315,7 @@ height: 299px;
 
     .last-box{
    background-image: url("/assets/handshake.jpg");
-
+background-color: rgba(0,0, 0, 0.5);
    background-size: cover;
    background-repeat: no-repeat;
    height: 285px;
@@ -333,6 +333,7 @@ flex-direction: column;
 align-items: center;
 
     }
+    
 
 
 
@@ -341,7 +342,7 @@ align-items: center;
 
 position: static;
 width: 548px;
-height: 57px;
+height: 47px;
 
 display: flex;
 flex-direction: row;
@@ -358,20 +359,26 @@ margin: 0px 16px;
     }
     .i{
       display: inline;
-      width: 120px;
+      width: 420px;
 height: 10px;
+border:10px solid white ;
+border-radius: 10px;
+
     }
     .btn-container3{
 
 
 
 width: 100px;
-height: 50px;
+height: 65px;
 margin-top:15px ;
+border: 10px solid white;
+border-radius:10px ;
+background-color: white;
 
 
 
-padding: 17px 20px 17px 20px;
+
 
 
 
@@ -388,3 +395,28 @@ padding: 17px 20px 17px 20px;
       font-size: 16px;
       font-weight: 400;
     }
+   .footer{
+
+
+    display: flex;
+    margin-top: 75px;
+    flex-direction: row;
+    gap:580px;
+    padding: 120px,100px;
+    height: 70px;
+ 
+   background-color:rgba(13, 19, 33, 0.03) ;
+   
+  } 
+  .text9{
+
+margin-top: 20px;
+font-size: 16px;
+font-weight: 600;
+     margin-left: 170px;
+  }
+  .icon1{
+margin-top: 20px;
+    margin-right: 150px;
+    display: inline;
+  }
