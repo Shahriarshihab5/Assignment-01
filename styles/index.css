@@ -91,7 +91,7 @@ border-radius: 10px;
 
   border-radius: 16px;
 
-  background: linear-gradient(90.00deg, rgb(63, 156, 218),rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(90.00deg,  rgba(224, 228, 229),rgba(255, 255, 255, 0) 100%);
  margin-top: 20px;
  padding: 100px;
  display: flex;
@@ -111,7 +111,7 @@ border-radius: 10px;
  
 
 
-background: linear-gradient(270.00deg, rgb(63, 156, 218),rgba(255, 255, 255, 0) 100%);
+background: linear-gradient(270.00deg, rgb(224, 228, 229),rgba(255, 255, 255, 0) 100%);
 }
 
 .why-webdev{
@@ -266,6 +266,8 @@ display: flex;
 gap:24px;
 
 width: 1150px;
+margin-bottom: 20px;
+
 
 }
 .text2{
@@ -283,13 +285,13 @@ background-color: rgba(255, 76, 30, 0.05);
 padding: 40px;
 border-radius: 16px;
 width: 364px;
-height: 299px;
+height: 200px;
 }
 
 .Css-box{
   border-radius: 16px;
   width: 364px;
-  height: 299px;
+  height: 200px;
   background: rgba(0, 76, 232, 0.05);
   padding:40px;
   
@@ -297,7 +299,7 @@ height: 299px;
 
   .Js-box{
     width: 364px;
-    height: 299px;
+    height: 200px;
     border-radius: 16px;
 
     background-color: rgba(255, 223, 0, 0.05);
