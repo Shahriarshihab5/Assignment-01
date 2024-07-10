@@ -314,6 +314,8 @@ height: 200px;
     .underline{
    
       text-decoration: underline;
+      color: black;
+      font-weight: 600;
     }
 
     .last-box{
