@@ -11,7 +11,7 @@ body{
 }
 .header-container{
   position:relative;
-    background-image: url("./source/banner.PNG") ;
+    background-image: url("../source/banner.PNG") ;
     background-size: cover;
     background-repeat: no-repeat;
     height: 435px;
@@ -315,7 +315,7 @@ height: 299px;
     }
 
     .last-box{
-   background-image: url("./source/handshake.JPG");
+   background-image: url("../source/handshake.JPG");
 background-color: rgba(0,0, 0, 0.5);
    background-size: cover;
    background-repeat: no-repeat;
