@@ -78,6 +78,10 @@ border-radius: 10px;
    justify-content: center;
    flex-direction: row;
    align-items: center;
+   margin-top: 60px;
+   margin-bottom: 60px;
+   padding: 60px;
+   border-radius: 10px;
 
 
 }
@@ -175,5 +179,212 @@ margin-top: 10px;
   align-items: center;
   text-align: center;
   height: 500px;
-  tex
+  margin-left: 148px;
+  margin-right: 148px;
+  margin-top: 250px;
+  margin-bottom: 25px;
 }
+.head-ofytsection{
+font-size: 32px;
+font-weight:bolder;
+margin-bottom: 20px;
+
+}
+.para-yt-section{
+
+
+  color: rgb(13, 19, 33);
+
+
+}
+.yt-border{
+
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+
+
+
+position: static;
+width: 1140px;
+height: 614px;
+
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 32px;
+
+
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 48px 0px;
+  
+}
+.box1{
+
+
+position: static;
+width: 852px;
+height: 113px;
+
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 18px 0px;
+}
+
+.My-target{
+
+  display: flex;
+margin-top:200px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+}
+.text{
+
+margin-bottom: 28px;
+text-align: center;
+
+}
+.box-section{
+margin-top: 30px;
+display: flex;
+gap:24px;
+
+width: 1150px;
+
+}
+.text2{
+
+  margin-bottom: 10px;
+}
+.para2{
+
+
+  color:rgb(123, 131, 131);
+}
+.html-box{
+
+background-color: rgba(255, 76, 30, 0.05);
+padding: 40px;
+border-radius: 16px;
+width: 364px;
+height: 299px;
+}
+
+.Css-box{
+  border-radius: 16px;
+  width: 364px;
+  height: 299px;
+  background: rgba(0, 76, 232, 0.05);
+  padding:40px;
+  
+  }
+
+  .Js-box{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+
+    background-color: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+    }
+    .text3{
+
+      color:rgb(13, 19, 33);
+      opacity: 0.7;
+
+    }
+    .underline{
+   
+      text-decoration: underline;
+    }
+
+    .last-box{
+   background-image: url("/assets/handshake.jpg");
+
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 285px;
+  
+   background-position: 0%;
+   margin-left: 160px;
+   margin-right: 160px;
+
+   border-radius: 16px;
+   margin-top: 50px;
+padding: 20px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+
+    }
+
+
+
+    .text-box{
+
+
+position: static;
+width: 548px;
+height: 57px;
+
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 19px 20px 19px 20px;
+
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+
+    }
+    .i{
+      display: inline;
+      width: 120px;
+height: 10px;
+    }
+    .btn-container3{
+
+
+
+width: 100px;
+height: 50px;
+margin-top:15px ;
+
+
+
+padding: 17px 20px 17px 20px;
+
+
+
+    }
+    .text6{
+
+      color: white;
+      font-weight: 700;
+      font-size: 32px;
+    }
+    .text7{
+
+      color: white;
+      font-size: 16px;
+      font-weight: 400;
+    }
