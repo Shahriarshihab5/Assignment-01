@@ -11,7 +11,7 @@ body{
 }
 .header-container{
   position:relative;
-    background-image: url("/source/banner.png");
+    background-image: url("/source/banner.PNG");
     background-size: cover;
     background-repeat: no-repeat;
     height: 435px;
@@ -44,6 +44,7 @@ flex-direction: row;
 justify-content: center;
 align-items: center;
 padding: 21px 24px 21px 24px;
+text-decoration: none;
 
 
 
@@ -314,7 +315,7 @@ height: 299px;
     }
 
     .last-box{
-   background-image: url("/source/handshake.jpg");
+   background-image: url("/source/handshake.JPG");
 background-color: rgba(0,0, 0, 0.5);
    background-size: cover;
    background-repeat: no-repeat;
