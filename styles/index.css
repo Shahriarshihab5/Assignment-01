@@ -11,7 +11,7 @@ body{
 }
 .header-container{
   position:relative;
-    background-image: url("/source/banner.PNG");
+    background-image: url("/source/banner.PNG") ;
     background-size: cover;
     background-repeat: no-repeat;
     height: 435px;
